@@ -1,0 +1,38 @@
+*{
+    color: rgba(0,25,255,0.6);
+}
+#res1{
+    margin-top: 20px;
+    
+   
+}
+#res2{
+    margin-top: 20px;
+    height: 100px;
+   
+}
+#numOfDices{
+    height: 50px;
+    width: 100px;
+    font-size: 40px;
+    align-content: center;
+}
+
+#but{
+    height: 50px;
+    width: 200px;
+    font-size: 25px;
+    border: none;
+    background-color: rgba(0,255,25,0.1);
+}
+
+#container{
+    font-family: arial, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 2rem;
+    font-weight: bold;
+}
+h1{
+    background-color: rgba(0,255,255,0.1);
+   
+}
